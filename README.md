@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b89ac5f9-8470-4786-ab58-4bc3702b3fee/deploy-status)](https://app.netlify.com/sites/freya-hidroponia/deploys)
+
 # Free React landing page template
 
 ![Open React template preview](https://user-images.githubusercontent.com/2683512/78789364-545e7100-79ad-11ea-9e3c-9528c99cda8e.png)
